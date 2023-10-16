@@ -26,6 +26,8 @@ export TOPDIR
 TARGET := Divine
 
 obj-y += main.o
+
+obj-y += Bsp/
 obj-y += Common/
 obj-y += Config/
 #obj-y += Example/

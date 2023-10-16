@@ -1,0 +1,8 @@
+obj-y += led.o
+obj-y += i2c.o
+obj-y += spi.o
+obj-y += gpio.o
+obj-y += mmio.o
+obj-y += serial.o
+obj-y += version.o
+obj-y += gpio_sysfs.o
