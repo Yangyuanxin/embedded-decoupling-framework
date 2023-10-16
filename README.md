@@ -9,9 +9,16 @@
 
 ![](Docs/assets/Arch.png)
 
+#### 工程构建和运行
+```
+make clean
+make -j8
+./Divine
+```
+
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- 1.Fork 本仓库
+- 2.新建 Feat_xxx 分支
+- 3.提交代码
+- 4.新建 Pull Request
