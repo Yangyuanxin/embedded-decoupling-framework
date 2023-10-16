@@ -6,3 +6,5 @@ obj-y += mmio.o
 obj-y += serial.o
 obj-y += version.o
 obj-y += gpio_sysfs.o
+obj-y += gpio_cdev_v1.o
+obj-y += gpio_cdev_v2.o
