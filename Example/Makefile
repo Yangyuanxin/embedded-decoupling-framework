@@ -1,0 +1,16 @@
+obj-y += Camera_test.o
+obj-y += Gpio_test.o
+obj-y += I2c_test.o
+obj-y += Ini_test.o
+obj-y += Json_test.o
+obj-y += Led_test.o
+obj-y += Mmio_test.o
+obj-y += Pwm_test.o
+obj-y += Serial_test.o
+obj-y += Spi_test.o
+obj-y += Version_test.o
+obj-y += Poll_test.o
+obj-y += Msg_test.o
+obj-y += Run_exec_test.o
+obj-y += Socket_test.o
+obj-y += Thread_test.o
